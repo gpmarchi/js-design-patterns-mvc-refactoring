@@ -1,0 +1,24 @@
+{
+  "name": "ud989-school-attendance",
+  "version": "1.0.0",
+  "description": "udacity-frontend-attendance ===========================",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "live-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/udacity/ud989-school-attendance.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/udacity/ud989-school-attendance/issues"
+  },
+  "homepage": "https://github.com/udacity/ud989-school-attendance#readme",
+  "devDependencies": {
+    "live-server": "^1.2.1"
+  }
+}
